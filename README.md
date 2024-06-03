@@ -1,2 +1,2 @@
 # keygenShim
-Excel generator
+key generator for excel
